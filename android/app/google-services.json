@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105154739764",
+    "project_id": "asbezaye-e753a",
+    "storage_bucket": "asbezaye-e753a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105154739764:android:70f1eddb9adefc70d91461",
+        "android_client_info": {
+          "package_name": "com.example.asbezaye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105154739764-k3qfgd1e0fcgufieq14173kd177oom4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhqZ9sQfj21Qd1I9d5mKcfgPndeLbyVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105154739764-k3qfgd1e0fcgufieq14173kd177oom4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
